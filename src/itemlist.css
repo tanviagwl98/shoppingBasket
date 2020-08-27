@@ -1,0 +1,41 @@
+.products {
+  
+    width:100%;
+    display: grid;
+     grid-template-columns: 1fr 1fr 1fr 1fr;
+     
+   }
+   
+   .products img {
+     width: 60%;
+     height: 60%;
+   }
+   .products img:hover{
+     opacity:0.6;
+   }
+   
+   .product {
+     padding: 20px;
+   }
+   
+   button {
+     height: 40px;
+     width: 120px;
+     font-size: 15px;
+     padding: 10px;
+     
+   }
+   
+   header {
+     background-color:#F67062;
+     height: 70px;
+     padding-top: 20px;
+   }
+   select{
+     text-align: center;
+     width: 200px;
+     height: 50px;
+     font-weight: bold;
+     border: 2px solid rgb(151, 94, 19);
+     box-shadow: chocolate;
+   }
