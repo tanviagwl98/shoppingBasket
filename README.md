@@ -6,6 +6,7 @@ This React App Project is created for simple shopping basket functioning which i
 - Remove item from basket
 - Clear Basket
 - Checkout Alert
+- Total Amount Calculation
 - Empty Alert
 
 
