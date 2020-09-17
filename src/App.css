@@ -56,15 +56,23 @@
  }
  
  header {
-   background-color:#F67062;
+   background-color:#84c225;
    height: 70px;
    padding-top: 20px;
+   width:100%;
+   
  }
+
  select{
    text-align: center;
+   margin:0;
+   float:left;
+   margin-left:0px;
+   margin-right:20%;
    width: 200px;
-   height: 50px;
+   height:30px;
    font-weight: bold;
-   border: 2px solid rgb(151, 94, 19);
-   box-shadow: chocolate;
+   border-block-color: #84c225;
+   border: 3px solid #84c225;
+   border-radius:5px;
  }

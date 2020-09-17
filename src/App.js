@@ -1,6 +1,5 @@
 import React from 'react';
 import Itemlist from './Itemlist';
-//import Cart from './Cart';
 
 
 function App() {
