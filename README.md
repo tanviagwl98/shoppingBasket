@@ -7,3 +7,6 @@ This React App Project is created for simple shopping basket functioning which i
 - Clear Basket
 - Checkout Alert
 - Empty Alert
+
+
+Link to the video : https://drive.google.com/file/d/1H9kdOi02nLqr482rPc0BFvwt8mWn88qg/view
